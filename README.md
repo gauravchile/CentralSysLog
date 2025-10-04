@@ -40,4 +40,4 @@ Access via web browser to visualize and filter logs.
 
 LogAnalyzer automatically imports and analyzes syslog files once configured.
 
-loganalyzer.sh
+./loganalyzer.sh
